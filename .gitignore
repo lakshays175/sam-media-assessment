@@ -1,0 +1,8 @@
+#Exclude venv 
+/.venv
+
+# exclude output_csv
+/output_csv
+
+# Exclude pycache file
+__pycache__
